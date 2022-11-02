@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+.layoutNovo{
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  align-items: center;
+}
+
+.containerNovo{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  margin-right: 3px;
+}
